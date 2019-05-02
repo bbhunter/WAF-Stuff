@@ -1,3 +1,6 @@
+
+> __This is a substitute repository for the original repo [Awesome-WAF](https://github.com/0xinfection/awesome-waf) put up due to public demand. The original repository got taken down due to an invalid DMCA for taking some payloads with credits into this collection. Nevermind, the original repository will be up within a period of 14 days within which GitHub will resolve the DMCA. Thank you everyone for the support you're showing.__
+
 # Awesome WAF [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg "Awesome")](https://github.com/0xinfection/awesome-waf)
 > A curated list of awesome WAF stuff. 🔥
 >
